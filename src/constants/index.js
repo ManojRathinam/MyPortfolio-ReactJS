@@ -13,10 +13,6 @@ import {
     git,
     java,
     python,
-    meta,
-    starbucks,
-    tesla,
-    shopify,
     carrent,
     jobit,
     tripguide,
@@ -215,4 +211,4 @@ import {
 
   ];
   
-  export { services, technologies, experiences, testimonials, projects };
+  export { services, technologies, projects };
